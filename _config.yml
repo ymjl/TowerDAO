@@ -1,0 +1,14 @@
+# Site settings
+title: Tower DAO   
+email: contact@towerdao.world  
+description: Community-driven Transformers ecosystem accelerator.
+baseurl: ""  
+url: "http://towerdao.world/"    # 你的网站的域名，例如 "http://yourdomain.com"
+twitter_username: tower_dao
+github_username:
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
